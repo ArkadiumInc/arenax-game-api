@@ -1,0 +1,23 @@
+{
+  "name": "arenax-game-api",
+  "version": "0.0.1",
+  "description": "api for arenax games integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkadiumInc/arenax-game-api.git"
+  },
+  "keywords": [
+    "arenax",
+    "games"
+  ],
+  "author": "Arkadium",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArkadiumInc/arenax-game-api/issues"
+  },
+  "homepage": "https://github.com/ArkadiumInc/arenax-game-api#readme"
+}
