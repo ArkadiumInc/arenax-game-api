@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ArkadiumInc/arenax-game-api/issues"
   },
-  "homepage": "https://github.com/ArkadiumInc/arenax-game-api#readme"
+  "homepage": "https://github.com/ArkadiumInc/arenax-game-api#readme",
+  "devDependencies": {
+    "semantic-release": "^17.1.1"
+  }
 }
