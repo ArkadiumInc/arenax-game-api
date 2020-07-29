@@ -1,6 +1,6 @@
 {
   "name": "arenax-game-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "api for arenax games integration",
   "main": "index.js",
   "typings": "index.d.ts",
