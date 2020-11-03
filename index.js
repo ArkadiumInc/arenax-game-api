@@ -21,6 +21,7 @@ var ArenaXApi = (function () {
         _this.events = options.eventList;
         _this.configUrl = options.configUrl;
         _this.options = options;
+        _this.customProperties = options.customProperties;
 
         _this.observable.subscribe(function (data) {
             var storedAction = _this.actions.find(function (action) {
