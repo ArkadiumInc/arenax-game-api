@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/ArkadiumInc/arenax-game-api#readme",
   "devDependencies": {
-    "semantic-release": "^17.1.1"
+    "semantic-release": "^19.0.3"
   }
 }
